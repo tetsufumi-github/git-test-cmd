@@ -1,1 +1,1 @@
-# git-test_cmd
+# git-test-cmd
